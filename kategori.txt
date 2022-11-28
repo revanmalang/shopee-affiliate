@@ -1,0 +1,14 @@
+Kesehatan - 100001
+Aksesoris Fashion - 100001
+Elektronik - 100010
+Pakaian Pria - 100011
+Sepatu Pria - 100012
+Handphone & Aksesoris - 100013
+Fashion Muslim - 100014
+Aksesoris & Tas Wanita - 100013
+Pakaian Wanita - 100017
+Sepatu Wanita - 100532
+Tas Pria - 100533
+Jam Tangan - 100534
+Perawatan & Kecantikan - 100630
+Perlengkapan Rumah - 100636
